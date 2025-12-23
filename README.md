@@ -101,6 +101,14 @@ https://github.com/Anouar-Derja/PrClothes_Project
 
 ---
 
+## 🚀 Planning to Learn
+
+- React
+- Angular
+- TypeScript
+
+---
+
 ## 🎯 Goals
 
 - Become a strong **software engineer or senior developer**
