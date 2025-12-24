@@ -85,6 +85,18 @@ https://github.com/Anouar-Derja/PrClothes_Project
 
 ---
 
+### 🔐 DVLD Management System
+**Desktop Application (C# + SQL)**
+
+- User management & authentication
+- Structured business logic using OOP
+- Database-driven operations
+- Clean separation using 3-Tier Architecture
+
+**Tech:** C#, SQL, OOP, ERD
+
+---
+
 ### 🎮 Small Logic & Game Projects
 - Rock–Paper–Scissors (UI + logic)
 - Math & logic games
