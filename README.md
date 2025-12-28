@@ -66,6 +66,7 @@ My main goal is to **grow as a software engineer or senior developer** through r
 - User profile & authentication UI
 
 **Tech:** HTML, CSS, JavaScript, IndexedDB  
+
 🔗 Repository:  
 https://github.com/Anouar-Derja/PrClothes_Project
 
@@ -82,6 +83,7 @@ https://github.com/Anouar-Derja/PrClothes_Project
 - Clean separation using 3-Tier Architecture
 
 **Tech:** C#, SQL, OOP, ERD
+
 🔗 Repository:  
 https://github.com/Anouar-Derja/PrBank-Management-System
 ---
@@ -95,6 +97,7 @@ https://github.com/Anouar-Derja/PrBank-Management-System
 - Clean separation using 3-Tier Architecture
 
 **Tech:** C#, SQL, OOP, ERD
+
 🔗 Repository:  
 https://github.com/Anouar-Derja/PrDVLD_Project
 ---
@@ -103,6 +106,7 @@ https://github.com/Anouar-Derja/PrDVLD_Project
 - Rock–Paper–Scissors (UI + logic)
 - Math & logic games
 - Focus on clean logic and user interaction
+  
   🔗 Repository:  
 https://github.com/Anouar-Derja/Rock-Paper-Scissors-Game
 ---
