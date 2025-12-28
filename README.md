@@ -82,7 +82,8 @@ https://github.com/Anouar-Derja/PrClothes_Project
 - Clean separation using 3-Tier Architecture
 
 **Tech:** C#, SQL, OOP, ERD
-
+🔗 Repository:  
+https://github.com/Anouar-Derja/PrBank-Management-System
 ---
 
 ### 🔐 DVLD Management System
@@ -94,14 +95,16 @@ https://github.com/Anouar-Derja/PrClothes_Project
 - Clean separation using 3-Tier Architecture
 
 **Tech:** C#, SQL, OOP, ERD
-
+🔗 Repository:  
+https://github.com/Anouar-Derja/PrDVLD_Project
 ---
 
 ### 🎮 Small Logic & Game Projects
 - Rock–Paper–Scissors (UI + logic)
 - Math & logic games
 - Focus on clean logic and user interaction
-
+  🔗 Repository:  
+https://github.com/Anouar-Derja/Rock-Paper-Scissors-Game
 ---
 
 ## 📖 Currently Learning
