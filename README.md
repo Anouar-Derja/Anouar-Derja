@@ -8,12 +8,13 @@
 
 ## 🚀 About Me
 
-I’m a passionate developer focused on **building real-world applications**, not just tutorials.
+I am a junior full-stack developer focused on building real-world applications, not just tutorials.
 
-I enjoy working on **frontend logic and UI behavior**, while also having solid **backend and database foundations**.  
-I use **AI as a productivity tool**, but I always **understand, review, and control the code** I write.
+I enjoy working on frontend logic and user interface behavior, while also having solid backend and database foundations.
 
-My main goal is to **grow as a software engineer or senior developer** through real projects, clean architecture, and problem-solving.
+I use AI tools to improve productivity, while always reviewing, understanding, and controlling the code I write.
+
+My goal is to grow as a professional software developer through real projects, clean architecture, and strong problem-solving skills.
 
 ---
 
@@ -32,6 +33,7 @@ My main goal is to **grow as a software engineer or senior developer** through r
 - Database Design (ERD)
 - 3-Tier Architecture
 - OOP
+- Windows Services
 
 ### Programming & CS Foundations
 - C++
