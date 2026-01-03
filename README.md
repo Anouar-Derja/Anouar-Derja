@@ -8,13 +8,13 @@
 
 ## 🚀 About Me
 
-I am a junior full-stack developer focused on building real-world applications, not just tutorials.
+Junior full-stack developer focused on building real-world applications rather than only tutorials.
 
-I enjoy working on frontend logic and user interface behavior, while also having solid backend and database foundations.
+I enjoy working on frontend logic and UI behavior, while also having solid backend and database foundations.
 
-I use AI tools to improve productivity, while always reviewing, understanding, and controlling the code I write.
+I use AI tools to improve productivity, but I always review, understand, and take full control of the code I write.
 
-My goal is to grow as a professional software developer through real projects, clean architecture, and strong problem-solving skills.
+My goal is to grow as a professional software developer by building real projects, applying clean architecture, and strengthening problem-solving skills.
 
 ---
 
