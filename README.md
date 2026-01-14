@@ -153,7 +153,7 @@ https://github.com/Anouar-Derja/Rock-Paper-Scissors-Game
 
 ## 📫 Contact
 
-- EEmail : anouarfullstack@gmail.com
+- Email : anouarfullstack@gmail.com
 - LinkedIn: https://www.linkedin.com/in/anouar-derja/
 
 ---
