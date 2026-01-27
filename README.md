@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-Junior full-stack developer focused on building real-world applications rather than only tutorials.
+Software Developer (Backend-Focused) focused on building real-world applications rather than only tutorials.
 
 I enjoy working on frontend logic and UI behavior, while also having solid backend and database foundations.
 
