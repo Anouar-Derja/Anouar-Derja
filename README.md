@@ -1,6 +1,6 @@
 # Hi 👋 I'm Anouar Derja
 
-💻 **Junior Full-Stack Developer** | Frontend & Backend  
+💻 **Software Developer (Backend-Focused)** | Frontend & Backend  
 🧠 **C++ for Problem Solving & Algorithms**  
 🌍 Based in Morocco | Open to Remote Opportunities  
 
