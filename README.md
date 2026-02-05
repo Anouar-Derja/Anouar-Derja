@@ -121,6 +121,7 @@ https://github.com/Anouar-Derja/Rock-Paper-Scissors-Game
 - Clean Code & SOLID principles
 - Git best practices
 - Backend optimization & SQL performance
+- .NET Core
 
 ---
 
