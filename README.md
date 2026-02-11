@@ -117,19 +117,17 @@ https://github.com/Anouar-Derja/Rock-Paper-Scissors-Game
 
 ## 📖 Currently Learning
 
-- Advanced JavaScript
+- .NET Core 
 - Clean Code & SOLID principles
 - Git best practices
 - Backend optimization & SQL performance
-- .NET Core
 
 ---
 
 ## 🚀 Planning to Learn
 
-- React
-- Angular
-- TypeScript
+- Pyhton
+- Java
 
 ---
 
