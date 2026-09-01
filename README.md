@@ -1,24 +1,123 @@
-<div align="center"
+Conversation with Gemini
+<div align="center">
+
+
+
 # 👋 Hey, I'm **Anouar Derja**
+
+
+
 ### `Backend-Focused Software Developer` · `C#` · `.NET` · `ASP.NET Core`
+
+
+
 🇲🇦 **Morocco** · 💻 **Backend Development** · 🚀 **Building Production-Ready Software**
+
+
+
 <br/>
+
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:F7B500&height=180&section=header&text=BUILD.%20SOLVE.%20SHIP.&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+
+
+
 </div>
+
+
+
+---
+
+
+
+<div align="center">
+
+
+
+## 🧠 `WHO AM I?`
+
+
+
+</div>
+
+
+
+```csharp
+
+public class AnouarDerja
+
+{
+
+    public string Role => "Backend-Focused Software Developer";
+
+
+
+    public string Location => "Morocco 🇲🇦";
+
+
+
+    public string[] CoreStack =>
+
+    [
+
+        "C#",
+
+        ".NET",
+
+        "ASP.NET Core",
+
+        "SQL Server",
+
+        "Entity Framework Core"
+
+    ];
+
+
+
+    public string[] Focus =>
+
+    [
+
+        "REST APIs",
+
+        "Clean Architecture",
+
+        "Software Architecture",
+
+        "API Security"
+
+    ];
+
+
+
+    public string Goal =>
+
+        "Build reliable, scalable and production-ready software.";
+
+}
+
+```
+
+
 
 <br/>
 
-<a href="https://anouarderja.com">
-<img src="https://img.shields.io/badge/Portfolio-F7B500?style=for-the-badge&logoColor=black"/>
-</a>
-<a href="https://www.linkedin.com/in/anouar-derja-26a1503a2/">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=F7B500"/>
-</a>
-<a href="https://github.com/Anouar-Derja">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=F7B500"/>
-</a>
+
+
+<div align="center">
+
+
+
+> **Clean code. Strong architecture. Reliable software.**
+
+
 
 </div>
+
+
+
+---
 
 ---
 
