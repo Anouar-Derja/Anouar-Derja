@@ -230,12 +230,23 @@ COMPLETED
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=Anouar-Derja&show_icons=true&hide_border=true&theme=transparent&title_color=F7B500&icon_color=F7B500&text_color=FFFFFF"
-  height="180"
+  width="48%"
 />
 
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anouar-Derja&layout=compact&hide_border=true&theme=transparent&title_color=F7B500&text_color=FFFFFF"
-  height="180"
+  width="40%"
+/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Anouar-Derja&bg_color=0D1117&color=FFFFFF&line=F7B500&point=F7B500&area=true&hide_border=true"
+  width="95%"
 />
 
 </div>
@@ -255,18 +266,6 @@ COMPLETED
 
 ---
 
-# 📈 `CONTRIBUTION ACTIVITY`
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Anouar-Derja&bg_color=0D1117&color=FFFFFF&line=F7B500&point=F7B500&area=true&hide_border=true"
-  width="95%"
-/>
-
-</div>
-
----
 
 # 🚀 `CURRENTLY BUILDING MY NEXT LEVEL`
 
