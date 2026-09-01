@@ -228,17 +228,41 @@ COMPLETED
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anouar-Derja&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F7B500&icon_color=F7B500&text_color=FFFFFF" height="170"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Anouar-Derja&show_icons=true&hide_border=true&theme=transparent&title_color=F7B500&icon_color=F7B500&text_color=FFFFFF"
+  height="180"
+/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anouar-Derja&hide_border=true&background=0D1117&ring=F7B500&fire=F7B500&currStreakLabel=F7B500" height="170"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anouar-Derja&layout=compact&hide_border=true&theme=transparent&title_color=F7B500&text_color=FFFFFF"
+  height="180"
+/>
 
 </div>
 
-<br/>
+---
+
+# 🔥 `CONTRIBUTION STREAK`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anouar-Derja&bg_color=0D1117&color=FFFFFF&line=F7B500&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+<img
+  src="https://streak-stats.demolab.com?user=Anouar-Derja&theme=dark&hide_border=true&background=0D1117&ring=F7B500&fire=F7B500&currStreakLabel=F7B500"
+  width="70%"
+/>
+
+</div>
+
+---
+
+# 📈 `CONTRIBUTION ACTIVITY`
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Anouar-Derja&bg_color=0D1117&color=FFFFFF&line=F7B500&point=F7B500&area=true&hide_border=true"
+  width="95%"
+/>
 
 </div>
 
