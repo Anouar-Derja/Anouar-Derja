@@ -1,47 +1,24 @@
-Conversation with Gemini
+
 <div align="center">
-
-
 
 # 👋 Hey, I'm **Anouar Derja**
 
-
-
 ### `Backend-Focused Software Developer` · `C#` · `.NET` · `ASP.NET Core`
 
-
-
 🇲🇦 **Morocco** · 💻 **Backend Development** · 🚀 **Building Production-Ready Software**
-
-
-
 <br/>
-
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:F7B500&height=180&section=header&text=BUILD.%20SOLVE.%20SHIP.&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-
-
 </div>
-
-
 
 ---
 
-
-
 <div align="center">
-
-
 
 ## 🧠 `WHO AM I?`
 
-
-
 </div>
-
-
 
 ```csharp
 
